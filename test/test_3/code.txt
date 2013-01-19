@@ -1,0 +1,15 @@
+class Vehicle{
+
+	integer x;
+
+};
+
+program{
+
+	Vehicle v;
+	integer	x;	
+
+	x = v.x;
+	y = v.x; //y is undefined
+
+};

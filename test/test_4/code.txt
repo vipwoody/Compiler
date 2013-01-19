@@ -1,0 +1,22 @@
+class Vehicle{
+
+	integer x;
+
+};
+
+/*
+class Pizza{
+	
+	integer x;
+};
+*/
+
+program{
+
+	Vehicle v;
+	integer	x;	
+
+	x = v.x;
+
+	Pizza p; //invalid type
+};

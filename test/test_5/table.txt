@@ -1,0 +1,3 @@
+Printing: Function fun
+Record [name=x, type=integer, varKind=normal, structure=variable, varStructure=simple, local=, dimension=[], params=[], address=0]
+

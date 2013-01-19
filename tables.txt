@@ -1,0 +1,8 @@
+Printing: Function setname
+Record [name=x, type=integer, varKind=normal, structure=variable, varStructure=simple, local=, dimension=[], params=[], address=0]
+
+Printing: Function settemperature
+Record [name=y, type=real, varKind=parameter, structure=variable, varStructure=simple, local=, dimension=[], params=[], address=0]
+Record [name=x, type=integer, varKind=parameter, structure=variable, varStructure=simple, local=, dimension=[], params=[], address=0]
+Record [name=r, type=name, varKind=normal, structure=variable, varStructure=simple, local=, dimension=[], params=[], address=0]
+

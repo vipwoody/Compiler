@@ -1,0 +1,4 @@
+Printing: Function fun
+Record [name=v2, type=Vehicle, varKind=normal, structure=variable, varStructure=simple, local=, dimension=[], params=[], address=0]
+Record [name=x, type=integer, varKind=normal, structure=variable, varStructure=simple, local=, dimension=[], params=[], address=0]
+

@@ -1,0 +1,52 @@
+class id{
+	integer x;
+	integer y;
+//	real x;
+	integer j[1][2][4];
+};
+
+
+class name{
+
+	integer setname(){
+
+		integer x;
+		x = 2.34+34.4;
+
+	};
+
+	serial s;
+
+};
+
+
+class serial{
+
+	integer x;
+	integer y;
+
+};
+
+
+program{
+
+x = x;
+integer x;
+if (  (x + 4.0)*8.9/3.7)then{x=2.0;}else{};
+id[2.0]=id[2.0];
+
+id id;
+id = id.j[1.0][2.0][3.0][5.0];
+
+id = settemperature(x, x);
+
+//serial s;
+
+};
+
+integer settemperature(integer x, real y){
+
+	name r;
+	x = x / x;
+
+};

@@ -1,0 +1,55 @@
+class Vehicle{
+
+	integer x;
+	Pizza p;
+};
+
+class Pizza{
+	
+	integer x;
+	Sauce s;
+};
+
+class Sauce {
+
+	Colour c;
+	integer spiciness;
+
+};
+
+class Colour {
+
+	integer r;
+	integer g;
+	integer b;
+
+};
+
+program{
+
+	Vehicle v;
+	integer	x;	
+
+	x = v.x;
+
+	Pizza p; //invalid type
+	
+	x = fun();
+
+};
+
+integer fun() {
+
+	Vehicle v2;
+	integer x;
+	
+	if(x)
+	then {}
+	else {
+
+		x = v2.p.s.c.g;	//really long idnest
+						//z is not defined
+
+	};
+
+};
